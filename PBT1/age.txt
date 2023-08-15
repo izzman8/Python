@@ -1,0 +1,7 @@
+
+
+Name : Nor
+Type : Student
+Current year : 2022
+Your age : 23
+You are adult

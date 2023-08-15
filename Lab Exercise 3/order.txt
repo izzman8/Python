@@ -1,0 +1,13 @@
+
+Customer Detail
+
+Name :izzul
+IC Number :10910021097
+Address :kedah
+Phone Number :1133149003
+Email :izzul@gmail.com
+
+No  | Food 					| Beverage		 | Total Set 	 | Total Price 	 |
+1	| Burger Set		  | Fanta Strawberry	  |2		  | RM 22		  |
+
+ Total Price with delivery  = RM 26

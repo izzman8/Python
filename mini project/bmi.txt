@@ -1,0 +1,8 @@
+ | bmi       	|  status        |
+ | below 18.5	|  underweight   |
+ | below 25.0	|  normal weight |
+ | below 30.0	|  over weight   |
+ | above 30.0	|  obese         |
+
+Your height in Meter : 1.69
+Your weight in KG : 67.0
